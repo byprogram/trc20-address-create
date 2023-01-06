@@ -7,8 +7,9 @@
 ## 使用方法
 - 在文件夹的根目录打开终端窗口 输入命令 `node app`启动项目
 - 保持运行程序，不要关闭，等待程序生成靓号地址
-- 生成的地址、私钥等信息会输出在终端
-![image](https://user-images.githubusercontent.com/121013897/211105377-a6aa2147-2922-48cc-8800-2ecfb8f7cd76.png)
+- 生成的地址、私钥等信息会输出在终端。选中后，使用快捷键 Ctrl+C 复制即可。
+![image](https://user-images.githubusercontent.com/121013897/211108810-5696f630-abec-4a9b-afe1-9e1d251c757c.png)
+
 
 ## 项目交流
 #### Telegram：[byprogram](https://t.me/byprogram)
