@@ -1,12 +1,12 @@
 {
-  "name": "lishu_shujv",
+  "name": "trc20-address-create",
   "version": "1.0.0",
-  "description": "",
+  "description": "无限生成连续相同尾号的trc钱包地址",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "byprogram",
   "license": "ISC",
   "dependencies": {
     "tronweb": "^5.0.0"
