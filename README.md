@@ -13,7 +13,7 @@
 - 在文件夹的根目录打开终端窗口 输入命令 `node app`启动项目
 - 保持运行程序，不要关闭，等待程序生成靓号地址
 - 生成的地址、私钥等信息会输出在终端。选中后，使用快捷键 Ctrl+C 复制即可。
-![image](https://user-images.githubusercontent.com/121013897/211108810-5696f630-abec-4a9b-afe1-9e1d251c757c.png)
+![image](https://user-images.githubusercontent.com/121013897/214118064-d6b396bf-324f-46b1-b242-bcbd440ec7fd.png)
 
 
 ## 项目交流
