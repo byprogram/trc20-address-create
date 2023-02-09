@@ -1,6 +1,6 @@
 # trc20-address-create
 多线程无限生成连续相同尾号（靓号）的TRC-20钱包地址
-## 视频教程
+## 视频教程 不懂就看
 [Github开源trc20靓号地址生成教程](https://www.youtube.com/watch?v=nSpAFOtN2qI)<br>
 ## 网页版 V2.0
 - [在线体验](http://tron.byprogram.xyz/#/) `账号：1 密码：1` <br>
