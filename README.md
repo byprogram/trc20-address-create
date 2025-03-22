@@ -19,5 +19,4 @@
 
 
 ## 项目交流
-#### Telegram：[byprogram](https://t.me/byprogram)
-#### 主页：[点击查看](https://www.byprogram.xyz/)
+#### Telegram：[byprogram](https://t.me/byprogramer)
